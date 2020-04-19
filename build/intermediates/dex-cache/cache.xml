@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Yusuf\AndroidStudioProjects\futbol\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\Yusuf\AndroidStudioProjects\futbol\app\build\intermediates\pre-dexed\release\classes-8878479df4658f7deaee5e91c563029de745a943.jar" />
+    </item>
+    <item
+        jar="C:\Users\Yusuf\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\Yusuf\AndroidStudioProjects\futbol\app\build\intermediates\pre-dexed\release\support-annotations-23.1.1-b0060f15e91ca35bb4d2914a542776dd73a2a3e5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Yusuf\AndroidStudioProjects\futbol\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\Yusuf\AndroidStudioProjects\futbol\app\build\intermediates\pre-dexed\release\internal_impl-23.1.1-ec782f59f7a852f76ae47a0435a00059bc96f93d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Yusuf\AndroidStudioProjects\futbol\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\Yusuf\AndroidStudioProjects\futbol\app\build\intermediates\pre-dexed\release\classes-84818b93eab900a6d34399ccb1194aeb7359c277.jar" />
+    </item>
+    <item
+        jar="C:\Users\Yusuf\AndroidStudioProjects\futbol\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\Yusuf\AndroidStudioProjects\futbol\app\build\intermediates\pre-dexed\release\classes-40aed5991cb277b8785076604920b7ab0b2eedb6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Yusuf\AndroidStudioProjects\futbol\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\Yusuf\AndroidStudioProjects\futbol\app\build\intermediates\pre-dexed\release\classes-dc0c6b9d86cf4ebaf7b7891c6435756a836b7b86.jar" />
+    </item>
+
+</items>
