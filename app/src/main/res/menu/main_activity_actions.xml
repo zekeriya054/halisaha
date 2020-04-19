@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Arama, eylem düğmesi olarak görülebilir -->
+    <!-- Ayarlar, daima taşan eylemler bölümünde durabilir -->
+    <item android:id="@+id/takimlari_hazirla"
+        android:title="@string/takimlari_hazirla"
+    />
+    <item android:id="@+id/action_oyuncu_ekle"
+        android:title="@string/oyuncu_ekle"
+    />
+    <item android:id="@+id/action_oyuncu_duzenle"
+    android:title="@string/oyuncu_duzenle"
+    />
+    <item android:id="@+id/action_oyuncu_sil"
+        android:title="@string/oyuncu_sil"
+        />
+    <item android:id="@+id/action_ayarlar"
+        android:title="@string/ayarlar"
+    />
+</menu>

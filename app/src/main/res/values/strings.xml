@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NoLayLayLom</string>
+    <string name="action_settings">Ayarlar</string>
+    <string name="takimlari_hazirla">Takımları Hazırla</string>
+    <string name="oyuncu_ekle">Ekle</string>
+    <string name="oyuncu_duzenle">Düzenle</string>
+    <string name="oyuncu_sil">Sil</string>
+    <string name="ayarlar">Ayarlar</string>
+    <string name="mevki_ekle">Mevki Ekle</string>
+    <string name="title_activity_oyuncu_ekle">Oyuncu Ekle</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_takimlari_hazirla">Takımlar</string>
+</resources>

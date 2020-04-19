@@ -1,0 +1,83 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.futbol"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="15"
+8-->C:\Users\Zekeriya\source\repos\futbol\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="26" />
+9-->C:\Users\Zekeriya\source\repos\futbol\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Users\Zekeriya\source\repos\futbol\app\src\main\AndroidManifest.xml:5:5-40:19
+12        android:allowBackup="true"
+12-->C:\Users\Zekeriya\source\repos\futbol\app\src\main\AndroidManifest.xml:6:9-35
+13        android:debuggable="true"
+14        android:icon="@mipmap/ic_launcher"
+14-->C:\Users\Zekeriya\source\repos\futbol\app\src\main\AndroidManifest.xml:7:9-43
+15        android:label="@string/app_name"
+15-->C:\Users\Zekeriya\source\repos\futbol\app\src\main\AndroidManifest.xml:8:9-41
+16        android:supportsRtl="true"
+16-->C:\Users\Zekeriya\source\repos\futbol\app\src\main\AndroidManifest.xml:9:9-35
+17        android:testOnly="true"
+18        android:theme="@style/AppTheme" >
+18-->C:\Users\Zekeriya\source\repos\futbol\app\src\main\AndroidManifest.xml:10:9-40
+19        <activity
+19-->C:\Users\Zekeriya\source\repos\futbol\app\src\main\AndroidManifest.xml:11:9-20:20
+20            android:name="com.futbol.MainActivity"
+20-->C:\Users\Zekeriya\source\repos\futbol\app\src\main\AndroidManifest.xml:12:13-41
+21            android:label="@string/app_name"
+21-->C:\Users\Zekeriya\source\repos\futbol\app\src\main\AndroidManifest.xml:13:13-45
+22            android:theme="@style/AppTheme.NoActionBar" >
+22-->C:\Users\Zekeriya\source\repos\futbol\app\src\main\AndroidManifest.xml:14:13-56
+23            <intent-filter>
+23-->C:\Users\Zekeriya\source\repos\futbol\app\src\main\AndroidManifest.xml:15:13-19:29
+24                <action android:name="android.intent.action.MAIN" />
+24-->C:\Users\Zekeriya\source\repos\futbol\app\src\main\AndroidManifest.xml:16:17-69
+24-->C:\Users\Zekeriya\source\repos\futbol\app\src\main\AndroidManifest.xml:16:25-66
+25
+26                <category android:name="android.intent.category.LAUNCHER" />
+26-->C:\Users\Zekeriya\source\repos\futbol\app\src\main\AndroidManifest.xml:18:17-77
+26-->C:\Users\Zekeriya\source\repos\futbol\app\src\main\AndroidManifest.xml:18:27-74
+27            </intent-filter>
+28        </activity>
+29        <activity
+29-->C:\Users\Zekeriya\source\repos\futbol\app\src\main\AndroidManifest.xml:21:9-25:20
+30            android:name="com.futbol.Main2Activity"
+30-->C:\Users\Zekeriya\source\repos\futbol\app\src\main\AndroidManifest.xml:22:13-42
+31            android:label="@string/title_activity_main2"
+31-->C:\Users\Zekeriya\source\repos\futbol\app\src\main\AndroidManifest.xml:23:13-57
+32            android:theme="@style/AppTheme.NoActionBar" >
+32-->C:\Users\Zekeriya\source\repos\futbol\app\src\main\AndroidManifest.xml:24:13-56
+33        </activity>
+34        <activity
+34-->C:\Users\Zekeriya\source\repos\futbol\app\src\main\AndroidManifest.xml:26:9-30:20
+35            android:name="com.futbol.OyuncuEkle"
+35-->C:\Users\Zekeriya\source\repos\futbol\app\src\main\AndroidManifest.xml:27:13-39
+36            android:label="@string/title_activity_oyuncu_ekle"
+36-->C:\Users\Zekeriya\source\repos\futbol\app\src\main\AndroidManifest.xml:28:13-63
+37            android:theme="@style/AppTheme.NoActionBar" >
+37-->C:\Users\Zekeriya\source\repos\futbol\app\src\main\AndroidManifest.xml:29:13-56
+38        </activity>
+39        <activity
+39-->C:\Users\Zekeriya\source\repos\futbol\app\src\main\AndroidManifest.xml:31:9-39:20
+40            android:name="com.futbol.TakimlariHazirlaActivity"
+40-->C:\Users\Zekeriya\source\repos\futbol\app\src\main\AndroidManifest.xml:32:13-53
+41            android:label="@string/title_activity_takimlari_hazirla"
+41-->C:\Users\Zekeriya\source\repos\futbol\app\src\main\AndroidManifest.xml:33:13-69
+42            android:parentActivityName="com.futbol.MainActivity"
+42-->C:\Users\Zekeriya\source\repos\futbol\app\src\main\AndroidManifest.xml:34:13-55
+43            android:theme="@style/AppTheme.NoActionBar" >
+43-->C:\Users\Zekeriya\source\repos\futbol\app\src\main\AndroidManifest.xml:35:13-56
+44            <meta-data
+44-->C:\Users\Zekeriya\source\repos\futbol\app\src\main\AndroidManifest.xml:36:13-38:59
+45                android:name="android.support.PARENT_ACTIVITY"
+45-->C:\Users\Zekeriya\source\repos\futbol\app\src\main\AndroidManifest.xml:37:17-63
+46                android:value="com.futbol.MainActivity" />
+46-->C:\Users\Zekeriya\source\repos\futbol\app\src\main\AndroidManifest.xml:38:17-56
+47        </activity>
+48    </application>
+49
+50</manifest>
